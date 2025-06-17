@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import { ABOUT_TEXT } from "../constants";
+import { ABOUT_TEXT } from "../constants/information";
 import { motion } from "framer-motion";
 
 function About() {

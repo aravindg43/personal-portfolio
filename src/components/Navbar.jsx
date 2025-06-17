@@ -15,12 +15,12 @@ function Navbar() {
         />
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <a href="https://www.linkedin.com/in/srijalprasad/" target="_blank" rel="noopener noreferrer">
+        {/* <a href="https://www.linkedin.com/in/srijalprasad/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin className="w-6 h-6 md:w-8 md:h-8" />
         </a>
-        <a href="https://github.com/Srijal-prasad" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/aravindg43" target="_blank" rel="noopener noreferrer">
           <FaGithub className="w-6 h-6 md:w-8 md:h-8" />
-        </a>
+        </a> */}
         {/* <a href="https://x.com/PrasadSrijal" target="_blank" rel="noopener noreferrer">
           <FaTwitter className="w-6 h-6 md:w-8 md:h-8" />
         </a>
