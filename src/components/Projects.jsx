@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { PROJECTS } from "../constants";
+import { PROJECTS } from "../constants/information";
 import { motion } from "framer-motion";
 import Image from "next/image";
 

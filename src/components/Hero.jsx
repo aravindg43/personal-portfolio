@@ -1,7 +1,8 @@
-'use client'
-import { HERO_CONTENT } from "../constants";
+"use client";
+
 import Image from "next/image";
 import { motion } from "framer-motion";
+import { HERO_CONTENT } from "@/constants/information";
 
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },

@@ -1,5 +1,5 @@
 'use client'
-import { EXPERIENCES } from "../constants";
+import { EXPERIENCES } from "../constants/information";
 import { motion } from "framer-motion";
 
 function Experience() {
